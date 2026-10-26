@@ -39,21 +39,4 @@ A comprehensive practice suite for licensed advocates:
 The web app is deployed live on Vercel:
 👉 **[https://legal-clarity-dalton-aaf8.vercel.app/](https://legal-clarity-dalton-aaf8.vercel.app/)**
 
----
 
-## 🛠️ Local Development
-
-```bash
-# Clone the repository
-git clone https://github.com/Luludal/legal_clarity.git
-cd legal_clarity
-
-# Install dependencies
-npm install
-
-# Start local development server
-npm run dev
-
-# Build for production
-npm run build
-```
